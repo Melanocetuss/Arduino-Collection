@@ -9,14 +9,5 @@ Bu repo, farklı Arduino projelerini içeren bir koleksiyondur. Her proje, belir
 - **IRSensor**: Kızılötesi sensör ile engel algılama.
 - **Kumanda_Ile_Led**: IR uzaktan kumanda ile LED kontrolü.
 
-## Projeler
-
-### 1. AnalogSinyalOkuma
-
-**Açıklama**:  
-Bu proje, bir potansiyometreden veya başka bir analog sensörden veri okumayı gösterir.
-
 **Gereksinimler**:
 - Arduino Uno
-- Potansiyometre
-- Bağlantı kabloları
